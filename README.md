@@ -26,4 +26,5 @@ The program pulls from a CSV to generate the song parameters. It also uses the j
 # a 6/8 jazzy track at 122 bpm in C minor
 # created with organelle and notably accompanied by brass
  ```
-![Example Album](https://raw.githubusercontent.com/stphnblack/random-song-parameters/master/distant%20bat.jpg)
+ 
+<img src="https://raw.githubusercontent.com/stphnblack/random-song-parameters/master/album%20example.png" alt="Example Art" width=300 height=300>
